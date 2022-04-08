@@ -1,0 +1,12 @@
+D:\Playground\VisualBasic\TimerProject\TimerProject\bin\Debug\TimerProject.exe.config
+D:\Playground\VisualBasic\TimerProject\TimerProject\bin\Debug\TimerProject.exe
+D:\Playground\VisualBasic\TimerProject\TimerProject\bin\Debug\TimerProject.pdb
+D:\Playground\VisualBasic\TimerProject\TimerProject\bin\Debug\TimerProject.xml
+D:\Playground\VisualBasic\TimerProject\TimerProject\obj\Debug\TimerProject.vbprojAssemblyReference.cache
+D:\Playground\VisualBasic\TimerProject\TimerProject\obj\Debug\TimerProject.Resources.resources
+D:\Playground\VisualBasic\TimerProject\TimerProject\obj\Debug\TimerProject.vbproj.GenerateResource.cache
+D:\Playground\VisualBasic\TimerProject\TimerProject\obj\Debug\TimerProject.vbproj.CoreCompileInputs.cache
+D:\Playground\VisualBasic\TimerProject\TimerProject\obj\Debug\TimerProject.exe
+D:\Playground\VisualBasic\TimerProject\TimerProject\obj\Debug\TimerProject.xml
+D:\Playground\VisualBasic\TimerProject\TimerProject\obj\Debug\TimerProject.pdb
+D:\Playground\VisualBasic\TimerProject\TimerProject\obj\Debug\TimerProject.morehTimer.resources
